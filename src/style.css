@@ -1,0 +1,15 @@
+*{
+    margin: 5px;
+    background-color:aliceblue;
+}
+
+#search{
+    margin: 12px;
+    height: 20px;
+    width: 200px;
+}
+
+.countryList{
+    display:flex;
+    flex-direction: column;
+}
